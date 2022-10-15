@@ -1,0 +1,19 @@
+.pink-bg {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(243, 176, 187);
+}
+
+.large {
+  font-size: 24px;
+}
+
+#bold-green {
+  background-color: rgb(101, 218, 90);
+  font-size: 24px;
+  font-weight: bold;
+}
+
+#big-blue {
+  color: rgb(54, 54, 230);
+  font-size: 36px;
+}
